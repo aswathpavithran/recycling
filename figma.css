@@ -1,0 +1,32 @@
+.column1{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+
+.column2{
+    background-image: url(figma\ image.jpeg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.emailinput{
+        background-color: #fff; 
+        width: 300px;
+        border-radius: 10px;
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px; 
+        align-content: center;
+    }
+
+.passwordinput{
+    background-color: #fff; 
+    width: 300px;
+    border-radius: 10px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px; 
+}

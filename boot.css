@@ -1,0 +1,28 @@
+.column1{
+    background-image: url(image/download\ \(1\).jpeg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.column2{
+    background-color: rgba(90, 131, 19, 0.753);
+    }
+
+    .logininput{
+      position: absolute;
+      left: 60%;
+      bottom: 50%;
+  }
+  
+  .passwordinput{
+      position: absolute;
+      left: 60%;
+      bottom: 40%;
+  }
+  
+  button{
+    position: absolute;
+    left: 65%;
+    bottom: 30%;
+}
+  

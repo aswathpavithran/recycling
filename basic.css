@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+}
+
+.map{
+    height: 519px;
+    margin: 0px;
+    position: absolute;
+    top: 0%;
+    padding: 0px;
+    left: 10.2%;
+}
+
+.youtube{
+    position: absolute;
+    margin: 0px;
+    left: 70%;
+    top: 20%;
+}
+
+.audio{
+    width: 600px;
+    height: 519px;
+    margin: 0px;
+    position: absolute;
+    top: 80%;
+    padding: 0px;
+    left: 15%;
+}
+
+.video{
+    position: absolute;
+    margin: 0px;
+    left: 70%;
+    top: 80%;
+}
